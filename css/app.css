@@ -197,8 +197,12 @@ footer{
 
     .banner{
         background-size: contain;
+        height:21vh;
     }
     nav{
         flex-direction: column;
+    }
+    h3{
+        font-size:1.6rem;
     }
   }
