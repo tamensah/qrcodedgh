@@ -181,6 +181,7 @@ footer{
 
     .client-box {
         margin: 8%;
+        margin-top: -1%
     }
 
     .client-box-img{
@@ -197,12 +198,12 @@ footer{
 
     .banner{
         background-size: contain;
-        height:21vh;
+        height:23vh;
     }
     nav{
         flex-direction: column;
     }
     h3{
-        font-size:1.6rem;
+        font-size:1.5rem;
     }
   }
