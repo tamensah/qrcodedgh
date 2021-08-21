@@ -31,7 +31,7 @@
 nav {
     width: 84%;
     margin: auto;
-    padding: 10px 0;
+    /* padding: 10px 0; */
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -48,6 +48,7 @@ nav ul li a {
     text-transform: uppercase;
     text-decoration: none;
     color:#1b1d20;
+    font-family: "MilliardExtraBold_Italic","Helvetica Neue","Helvetica","Roboto","Arial",sans-serif;
 }
 
 nav ul li a:hover {
