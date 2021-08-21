@@ -194,4 +194,8 @@ footer{
         flex-direction: column;
         justify-content: center;
     }
+
+    .banner{
+        background-size: contain;
+    }
   }
