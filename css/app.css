@@ -203,7 +203,7 @@ footer{
     }
 
     .smLinks a {
-        padding-top: 70px;
+        padding-top: 40px;
         padding-right: 0;
     }
 
@@ -214,7 +214,7 @@ footer{
     nav{
         flex-direction: column;
     }
-    h3{
-        font-size:1.3rem;
+    h2{
+        font-size:1.5rem;
     }
   }
