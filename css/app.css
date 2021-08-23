@@ -203,8 +203,9 @@ footer{
     }
 
     .smLinks a {
-        padding-top: 40px;
+        padding-top: 30px;
         padding-right: 0;
+        font-size: 50px;
     }
 
     .banner{
