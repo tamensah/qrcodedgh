@@ -71,6 +71,9 @@ nav ul li a:hover {
     color: #212121;
     margin-bottom: 20px;
 }
+.text-white{
+    color: #fff;
+}
 /* page css */
 .hero-section{
     width: 100%;
@@ -157,12 +160,12 @@ footer{
 
 .smLinks a{
     font-size: 65px;
-    color:#1b1d20;
+    color:#fff;
     padding-right: 135px;
 }
 
 .smLinks a:hover{
-    color: #fff;
+    color: #212121;
 }
 
 /* media queries */
@@ -199,6 +202,11 @@ footer{
         justify-content: center;
     }
 
+    .smLinks a {
+        padding-top: 70px;
+        padding-right: 0;
+    }
+
     .banner{
         background-size: contain;
         height:23vh;
@@ -207,6 +215,6 @@ footer{
         flex-direction: column;
     }
     h3{
-        font-size:1.5rem;
+        font-size:1.3rem;
     }
   }
